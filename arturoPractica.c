@@ -6,5 +6,6 @@ int main()
     //Ahora Arturo1 y arturo2 prodrán trabajar mucho mejor juntos wey que bello
     //Calro que si Amigo mio por cierto soy arturo2 jajajaja
     //master 1
+    //master 2
     return 0;
 }
